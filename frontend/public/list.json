@@ -1,0 +1,106 @@
+//  now these data are unnecessary
+ 
+ [
+    {
+"id":1,
+"name":"story book",
+"title":"lorem ipsum dolor sit amet consutetor",
+"price":0,
+"category":"free",
+"image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+},
+
+{
+    "id":2,
+    "name":"music book",
+    "title":"lorem ipsum dolor sit amet consutetor",
+    "price":20,
+    "category":"entertaiment",
+    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+    },
+
+    {
+        "id":3,
+        "name":"GYM book",
+        "title":"lorem ipsum dolor sit amet consutetor",
+        "price":50,
+        "category":"fitness",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+        },
+
+        {
+            "id":4,
+            "name":"maths book",
+            "title":"lorem ipsum dolor sit amet consutetor",
+            "price":100,
+            "category":"math",
+            "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+            },
+            {
+                "id":5,
+                "name":"science book",
+                "title":"lorem ipsum dolor sit amet consutetor",
+                "price":0,
+                "category":"free",
+                "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+                }
+                ,   {
+                    "id":6,
+                    "name":"sanskrit book",
+                    "title":"lorem ipsum dolor sit amet consutetor",
+                    "price":200,
+                    "category":"religion",
+                    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+                    }
+                    ,
+                    {
+                        "id":7,
+                        "name":"GK book",
+                        "title":"lorem ipsum dolor sit amet consutetor",
+                        "price":0,
+                        "category":"free",
+                        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+                        }
+                        ,   {
+                            "id":8,
+                            "name":"english book",
+                            "title":"lorem ipsum dolor sit amet consutetor",
+                            "price":0,
+                            "category":"free",
+                            "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+                            }
+                            ,   {
+                                "id":9,
+                                "name":"hindi book",
+                                "title":"lorem ipsum dolor sit amet consutetor",
+                                "price":0,
+                                "category":"free",
+                                "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+                                }
+                                ,   {
+                                    "id":10,
+                                    "name":"reasoning book",
+                                    "title":"lorem ipsum dolor sit amet consutetor",
+                                    "price":0,
+                                    "category":"free",
+                                    "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+                                    }
+                                    ,   {
+                                        "id":11,
+                                        "name":"dcld book",
+                                        "title":"lorem ipsum dolor sit amet consutetor",
+                                        "price":0,
+                                        "category":"free",
+                                        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+                                        }
+                                        ,
+                                        {
+                                            "id":12,
+                                            "name":"dcld book",
+                                            "title":"lorem ipsum dolor sit amet consutetor",
+                                            "price":0,
+                                            "category":"free",
+                                            "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.376306976.1726848292&semt=ais_hybrid"
+                                            }
+
+]
